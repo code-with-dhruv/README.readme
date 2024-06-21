@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Dheeraj Krishna</h1>
+<h1 align="center">Hi 👋, I'm Dhruv</h1>
 
-- 🔭 I’m currently working With [NAC BOTS](https://t.me/nacbots)
+- 🔭 I’m currently working With []()
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development**;**Machine Learning**
 
-- Our bots [Click here](https://t.me/nacbots/1)
+- Our bots [Click here]()
 
-- 👨‍💻 All of my projects are available at [My Repos](https://github.com/dheerxj)
+- 👨‍💻 All of my projects are available at [My Repos](https://github.com/code-with-dhruv)
 
-- 📫 How to reach me [Telegram](https://t.me/dheeraj2324)
+- 📫 How to reach me [](https://t.me/)
  
 -  ⚡ **Follow me for more**
  
@@ -38,14 +38,14 @@
  ---
  
  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=dheerxj&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=code-with-dhruv&theme=onedark"/>
 </p>
 
 <details>
 <summary>🔹 More...</summary>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dheerxj/dheerxj/main/github-metrics.svg" alt="metrix"></center>
+  <img src="https://raw.githubusercontent.com/code-with-dhruv/code-with-dhruv/main/github-metrics.svg" alt="metrix"></center>
 </p>
 <details>
  <summary>Contribution Snake 🐍</summary>
